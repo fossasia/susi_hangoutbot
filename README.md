@@ -1,3 +1,7 @@
+# SUSI Google Hangout Bot
+
+[![Build Status](https://travis-ci.org/fossasia/susi_hangoutbot.svg?branch=master)](https://travis-ci.org/fossasia/susi_hangoutbot)
+
 ## Setup:
 
 - To set up bot for Google hangouts you will need a gmail account first. If you don&#39;t have a gmail account then [create](https://accounts.google.com/SignUp?hl=en-GB) one as we will need it to set up bot.
