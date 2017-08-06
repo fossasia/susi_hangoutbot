@@ -1,0 +1,16 @@
+{
+  "name": "susi_hangout",
+  "version": "1.0.0",
+  "description": "SUSI AI bot for Google Hangouts",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ali Ayub Khan",
+  "license": "",
+  "dependencies": {
+    "express": "^4.15.3",
+    "hangouts-bot": "^0.2.1",
+    "request": "^2.81.0"
+  }
+}
